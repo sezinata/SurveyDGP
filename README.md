@@ -1,2 +1,2 @@
 
-Available data and supplementary materials for the manuscript.
+Available data and the supplementary materials for the manuscript.
