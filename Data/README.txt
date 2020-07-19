@@ -1,0 +1,1 @@
+Network/graph input files are in adjacency list format in NetworkX library (python).
